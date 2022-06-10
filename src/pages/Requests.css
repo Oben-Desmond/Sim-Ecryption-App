@@ -1,0 +1,31 @@
+.request-item{
+    border-bottom: 1px solid rgba(204, 204, 204, 0.098);
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.request-item ion-card-content{
+    padding: 1px;
+    margin: 1px;
+}
+
+.request-item ion-card-title{
+    font-size: 1.1em;
+    
+}
+
+.request-item ion-note{
+    font-size: 0.87em;
+    
+}
+
+.request-item ion-card-content ion-badge{
+    border-radius: 100%;
+    scale: 0.7;
+    height: 22px;
+    
+}
+.request-item ion-card-content p{
+    font-size: 13px;
+     opacity: 0.8;
+}

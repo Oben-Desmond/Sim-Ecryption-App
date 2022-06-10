@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "public key chat system",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "public key chat system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

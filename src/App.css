@@ -1,0 +1,27 @@
+.chat-item{
+    border-bottom: 1px solid rgba(204, 204, 204, 0.098);
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.chat-item ion-card-content{
+    padding: 1px;
+    margin: 1px;
+}
+
+.chat-item ion-card-title{
+    font-size: 1.1em;
+    
+}
+
+.chat-item ion-note{
+    font-size: 0.87em;
+    
+}
+
+.chat-item ion-card-content ion-badge{
+     
+    font-size: 8px;
+    width: 15px;
+    height: 15px;
+}
